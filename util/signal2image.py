@@ -8,7 +8,7 @@ from PIL import Image
 import numpy as np
 import os
 import matplotlib.pyplot as plt
-import scipy.io as sio#io相关模块，进行操作。
+import scipy.io as sio
 import random
 # crate floder
 curcwd = os.getcwd()
