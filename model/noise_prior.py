@@ -1,3 +1,4 @@
+@author: Kecheng Chen
 """This file is the noise  prior model that conduct preliminary extracting of noise."""
 'This model have four dilate convs and four res-blocks '
 
